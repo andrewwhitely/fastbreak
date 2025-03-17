@@ -3,7 +3,7 @@ import Image from 'next/image';
 
 export default async function Home() {
   return (
-    <div className='min-h-screen bg-gradient-to-b from-white to-[#1D8CAB]/10'>
+    <div className='min-h-screen bg-white'>
       <main className='flex-1'>
         <section className='w-full min-h-screen py-12 md:py-24 lg:py-32 xl:py-48'>
           <div className='container px-4 md:px-6'>
