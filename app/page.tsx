@@ -10,16 +10,16 @@ export default async function Home() {
             <div className='grid gap-6 lg:grid-cols-[1fr_400px] lg:gap-12 xl:grid-cols-[1fr_600px]'>
               <div className='flex flex-col justify-center space-y-4'>
                 <div className='space-y-2'>
-                  <div className='text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none md:text-3xl dark:text-gray-400'>
-                    <h1 className='text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none text-[#4D0099] md:text-3xl dark:text-gray-400'>
+                  <div className='text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none md:text-3xl '>
+                    <h1 className='text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none text-[#4D0099] md:text-3xl'>
                       Charlotte Hornets
                     </h1>
-                    <h1 className='text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none text-[#1D8CAB] md:text-3xl dark:text-gray-400'>
+                    <h1 className='text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none text-[#1D8CAB] md:text-3xl'>
                       Stats Dashboard
                     </h1>
                   </div>
 
-                  <p className='max-w-[600px] text-gray-500 md:text-xl dark:text-gray-400'>
+                  <p className='max-w-[600px] text-gray-500 md:text-xl'>
                     Access comprehensive player statistics and performance
                     analytics for the Charlotte Hornets. Sign in to explore
                     interactive visualizations and detailed player data.
